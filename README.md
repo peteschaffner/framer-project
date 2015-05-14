@@ -7,12 +7,9 @@ A quick description of my project.
 The idea here is to create self-documenting designs/prototypes, and thus it will
 be beneficial to know where to look in the source.
 
-Start here:
 - `index.html` – open this in your browser to view and interact with the
   prototype
 - `app.js` – the main project file that holds design/interaction logic
-
-&hellip;then here:
 - `/images` – project-specific graphics and assets
 - `/modules` – project-specific components and design patterns that have been
   abstracted away either to keep `app.js` more readable or because they are not
