@@ -1,4 +1,4 @@
-# My amazing project.
+# My Framer.js project
 
 A quick description of my project.
 

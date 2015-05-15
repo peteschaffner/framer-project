@@ -1,3 +1,4 @@
+.bundle.js
 framer.js
 framer.js.map
-node_modules/framer-cli
+node_modules
