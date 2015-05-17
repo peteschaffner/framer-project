@@ -8,11 +8,9 @@
  */
 
 var Device = require('framer-device')
-var UIStatusBar = require('framer-uistatusbar')
 var myModule = require('myModule')
 
 new Device({ deviceType: 'iphone-6-silver' })
-new UIStatusBar({ style: 'light' })
 
 var background = new BackgroundLayer({
   image: myModule.image

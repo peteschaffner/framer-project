@@ -4,8 +4,7 @@
   "description": "My Framer.js project.",
   "main": "index.js",
   "dependencies": {
-    "framer-device": "peteschaffner/framer-device",
-    "framer-uistatusbar": "peteschaffner/framer-uistatusbar"
+    "framer-device": "peteschaffner/framer-device"
   },
   "devDependencies": {
     "framer-cli": "peteschaffner/framer-cli"
