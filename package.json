@@ -1,16 +1,30 @@
 {
   "name": "framer-project",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "My Framer.js project.",
+  "author": {
+    "name": "Pete Schaffner",
+    "email": "pjschaffner@gmail.com"
+  },
+  "license": "MIT",
+  "keywords": [
+    "prototyping",
+    "framerjs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/peteschaffner/framer-project.git"
+  },
   "main": "index.js",
   "dependencies": {
-    "framer-device": "peteschaffner/framer-device",
-    "framer-uistatusbar": "peteschaffner/framer-uistatusbar"
+    "framer-device": "^0.1.0",
+    "framer-uistatusbar": "^0.1.0"
   },
   "devDependencies": {
-    "framer-cli": "peteschaffner/framer-cli"
+    "framer-cli": "^0.1.0"
   },
   "scripts": {
-    "start": "framer"
- }
+    "start": "framer preview"
+ },
+  "framer": { "type": "project" }
 }
